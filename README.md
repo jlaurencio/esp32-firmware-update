@@ -38,3 +38,5 @@ char * WIFI_PASS = "wifi password";
 - Commit and push the changes to Github
 - The workflow will run the script to generate json file and rename the bin file
 - Once the ESP32 finds higher `versionCode` in the json file it will download and update the firmware
+
+Firmware has the version 1.10.6 
